@@ -1,4 +1,4 @@
-# MACS 40200: Structural Estimation (Winter 2020)
+# SCM Struct_Model
 
 |  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) |
 |--------------|--------------------------------------------------------------|
